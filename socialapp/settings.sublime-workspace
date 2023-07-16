@@ -1,0 +1,641 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getClues"
+			],
+			[
+				"num",
+				"numGuesses"
+			],
+			[
+				"n",
+				"NUM_DIGITS"
+			],
+			[
+				"p",
+				"profile"
+			],
+			[
+				"pr",
+				"profile"
+			],
+			[
+				"pi",
+				"post-link"
+			],
+			[
+				"mt",
+				"mt-3"
+			],
+			[
+				"h",
+				"h5"
+			],
+			[
+				"re",
+				"remove-default-btn"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"Us",
+				"UserSearch"
+			],
+			[
+				"b",
+				"box-shadow"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"PS",
+				"POST"
+			],
+			[
+				"po",
+				"Post"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"d-",
+				"d-flex"
+			],
+			[
+				"A",
+				"AddDislike"
+			],
+			[
+				"Ad",
+				"AddLike"
+			],
+			[
+				"is",
+				"is_like"
+			],
+			[
+				"di",
+				"dislike"
+			],
+			[
+				"tr",
+				"True"
+			],
+			[
+				"m",
+				"LoginRequiredMixin"
+			],
+			[
+				"a",
+				"add"
+			],
+			[
+				"is_foll",
+				"is_following"
+			],
+			[
+				"foll",
+				"followers"
+			],
+			[
+				"fo",
+				"followers"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"ge",
+				"get_success_url"
+			],
+			[
+				"bi",
+				"birth_date"
+			],
+			[
+				"U",
+				"User"
+			],
+			[
+				"Pr",
+				"ProfileView"
+			],
+			[
+				"pos",
+				"posts"
+			],
+			[
+				"co",
+				"conf"
+			],
+			[
+				"t",
+				"True"
+			],
+			[
+				"c",
+				"CharField"
+			],
+			[
+				"T",
+				"True"
+			],
+			[
+				"red",
+				"mediumvioletred"
+			],
+			[
+				"g",
+				"get"
+			],
+			[
+				"Comment",
+				"CommentDeleteView"
+			],
+			[
+				"ce",
+				"comment"
+			],
+			[
+				"P",
+				"PostDeleteView"
+			],
+			[
+				"k",
+				"kwargs"
+			],
+			[
+				"C",
+				"CommentForm"
+			],
+			[
+				"for",
+				"forms"
+			],
+			[
+				"col",
+				"col-md-10"
+			],
+			[
+				"soc",
+				"social"
+			],
+			[
+				"s",
+				"social"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"so",
+				"social"
+			],
+			[
+				"u",
+				"auth"
+			],
+			[
+				"sign",
+				"signup"
+			],
+			[
+				"bt",
+				"btn-dark"
+			],
+			[
+				"vi",
+				"views"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"M",
+				"Memberform"
+			],
+			[
+				"if",
+				"ifmain"
+			],
+			[
+				"My",
+				"MyGridLayout"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"zip",
+				"zipSearch"
+			],
+			[
+				"zi",
+				"zipSearch"
+			],
+			[
+				"ap",
+				"api_request"
+			],
+			[
+				"st",
+				"state_update"
+			],
+			[
+				"ci",
+				"city_update"
+			],
+			[
+				"add",
+				"address_update"
+			],
+			[
+				"z",
+				"zipcode_update"
+			],
+			[
+				"f",
+				"f_name_update"
+			],
+			[
+				"f_",
+				"f_name_update"
+			],
+			[
+				"de",
+				"delete_box"
+			],
+			[
+				"d",
+				"delete_btn"
+			],
+			[
+				"ad",
+				"addresses"
+			],
+			[
+				"pa",
+				"padx"
+			],
+			[
+				"y",
+				"my_label"
+			],
+			[
+				"butt",
+				"button_divide"
+			],
+			[
+				"button",
+				"button_equal"
+			],
+			[
+				"butto",
+				"button_1"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/socialapp/socialapp/landing/templates/landing/navbar.html",
+			"settings":
+			{
+				"buffer_size": 1728,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"View: Toggle Full Screen"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/socialapp",
+		"/C/socialapp/socialapp",
+		"/C/socialapp/socialapp/landing",
+		"/C/socialapp/socialapp/landing/templates",
+		"/C/socialapp/socialapp/landing/templates/landing",
+		"/C/socialapp/socialapp/socialapp"
+	],
+	"file_history":
+	[
+		"/C/devweb/devweb/devweb/urls.py",
+		"/C/devweb/devweb/website/migrations/urls.py",
+		"/C/devweb/devweb/devweb/settings.py",
+		"/C/Users/jassm/Desktop/PythonProjects/bagels.py",
+		"/C/djangoresume/djangoresume/resumesite/templates/home.html",
+		"/C/djangoresume/djangoresume/resumesite/urls.py",
+		"/C/djangoresume/djangoresume/djangoresume/urls.py",
+		"/C/djangoresume/djangoresume/djangoresume/settings.py",
+		"/C/socialapp/socialapp/social/templates/social/followers_list.html",
+		"/C/socialapp/socialapp/social/templates/social/profile.html",
+		"/C/socialapp/socialapp/social/templates/social/post_list.html",
+		"/C/socialapp/socialapp/landing/templates/landing/navbar.html",
+		"/C/socialapp/socialapp/socialapp/settings.py",
+		"/C/socialapp/socialapp/social/views.py",
+		"/C/socialapp/socialapp/social/urls.py",
+		"/C/socialapp/socialapp/social/migrations/0003_userprofile.py",
+		"/C/socialapp/socialapp/socialapp/urls.py",
+		"/C/socialapp/socialapp/static/style.css",
+		"/C/socialapp/socialapp/social/templates/social/comment_delete.html",
+		"/C/socialapp/socialapp/social/templates/social/post_detail.html",
+		"/C/socialapp/socialapp/social/templates/social/search.html",
+		"/C/socialapp/socialapp/social/models.py",
+		"/C/socialapp/socialapp/landing/templates/landing/base.html",
+		"/C/socialapp/socialapp/socialapp/asgi.py",
+		"/C/socialapp/socialapp/templates/base.html",
+		"/C/socialapp/socialapp/templates/socialaccount/base.html",
+		"/C/socialapp/socialapp/templates/socialaccount/signup.html",
+		"/C/socialapp/socialapp/templates/account/signup.html",
+		"/C/socialapp/socialapp/templates/account/logout.html",
+		"/C/socialapp/socialapp/templates/account/base.html",
+		"/C/socialapp/socialapp/templates/account/login.html",
+		"/C/socialapp/socialapp/social/forms.py",
+		"/C/socialapp/socialapp/social/apps.py",
+		"/C/socialapp/socialapp/social/admin.py",
+		"/C/socialapp/socialapp/social/templates/social/profile_edit.html",
+		"/C/socialapp/socialapp/social/templates/social/post_edit.html",
+		"/C/socialapp/socialapp/social/templates/social/post_delete.html",
+		"/C/socialapp/socialapp/landing/views.py",
+		"/C/socialapp/socialapp/landing/urls.py",
+		"/C/socialapp/socialapp/landing/apps.py",
+		"/C/socialapp/socialapp/landing/models.py",
+		"/C/socialapp/socialapp/landing/templates/landing/index.html",
+		"/C/socialapp/socialapp/social/templates/search.html",
+		"/C/socialapp/socialapp/landing/admin.py",
+		"/C/socialapp/socialapp/templates/tests/base.html",
+		"/C/socialmedia/socialmedia/landing/migrations/__init__.py",
+		"/C/socialmedia/socialmedia/socialmedia/urls.py",
+		"/C/socialmedia/socialmedia/landing/templates/landing/urls.py",
+		"/C/socialmedia/socialmedia/landing/templates/landing/base.html",
+		"/C/socialmedia/socialmedia/socialmedia/settings.py",
+		"/C/socialmedia/socialmedia/landing/templates/landing/index.html",
+		"/C/socialmedia/socialmedia/landing/views.py",
+		"/C/socialmedia/socialmedia/landing/models.py",
+		"/C/socialmedia/socialmedia/landing/templates/landing/navbar.html",
+		"/C/djangodb/djangodb/website/templates/join.html",
+		"/C/djangodb/djangodb/website/forms.py",
+		"/C/djangodb/djangodb/website/views.py",
+		"/C/djangodb/djangodb/website/templates/base.html",
+		"/C/Gui/weather_app.py",
+		"/C/djangodb/djangodb/djangodb/wsgi.py",
+		"/C/djangodb/djangodb/website/templates/home.html",
+		"/C/djangodb/djangodb/website/urls.py",
+		"/C/djangodb/djangodb/website/models.py",
+		"/C/djangodb/djangodb/website/admin.py",
+		"/C/djangodb/djangodb/website/__init__.py",
+		"/C/djangodb/djangodb/manage.py",
+		"/C/djangodb/djangodb/website/migrations/__init__.py",
+		"/C/djangodb/djangodb/djangodb/__init__.py",
+		"/C/djangodb/djangodb/djangodb/settings.py",
+		"/C/djangodb/djangodb/djangodb/urls.py",
+		"/C/Program Files/Sublime Text 3/oop.py",
+		"/C/djangoapi/djangoapi/courses/models.py",
+		"/C/djangoapi/djangoapi/courses/serializers.py",
+		"/C/djangoapi/djangoapi/courses/admin.py",
+		"/C/djangoapi/djangoapi/courses/urls.py",
+		"/C/djangoapi/djangoapi/djangoapi/settings.py",
+		"/C/djangoapi/djangoapi/djangoapi/urls.py",
+		"/C/kivygui/design.py",
+		"/C/kivygui/my.kv",
+		"/C/kivygui/animation.kv",
+		"/C/kivygui/animation.py",
+		"/C/kivygui/input.py",
+		"/C/Program Files/Sublime Text 3/input.txt",
+		"/C/Program Files/Sublime Text 3/pipeline.py",
+		"/C/Program Files/Sublime Text 3/run.bash",
+		"/C/Gui/database.py",
+		"/C/Gui/MY_CALC.py",
+		"/C/Java/helloworlds.java",
+		"/C/Java/helloworld.java",
+		"/C/djangoweather/weather/lookup/templates/helloworld.java",
+		"/C/djangoweather/weather/lookup/templates/home.html",
+		"/C/djangoweather/weather/lookup/templates/base.html",
+		"/C/djangoweather/weather/lookup/templates/about.html",
+		"/C/djangoweather/weather/lookup/views.py",
+		"/C/djangoweather/weather/lookup/urls.py",
+		"/C/djangoweather/weather/lookup/templates/home",
+		"/C/djangoweather/weather/weather/urls.py",
+		"/C/djangoweather/weather/lookup/url.py",
+		"/C/djangoweather/weather/weather/settings.py",
+		"/C/djangoweather/weather/weather app_django.py",
+		"/C/Gui/sqlite_db.py",
+		"/C/Gui/image_app.py",
+		"/C/Gui/images.py",
+		"/C/Gui/button",
+		"/C/Users/jassm/Pictures/Saved Pictures/WP_4.jpg",
+		"/C/Gui/calculator.py",
+		"/C/Gui/entry.py",
+		"/C/Gui/grid.py",
+		"/C/Gui/button.py",
+		"/C/Gui/Hello World.py"
+	],
+	"find":
+	{
+		"height": 27.3333333333
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/socialapp/socialapp/landing/templates/landing/navbar.html",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1728,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.3333333333
+	},
+	"input":
+	{
+		"height": 39.3333333333
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "settings.sublime-project",
+	"replace":
+	{
+		"height": 50.6666666667
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 138.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
